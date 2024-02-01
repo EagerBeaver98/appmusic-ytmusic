@@ -1,2 +1,2 @@
 # appmusic-ytmusic
-Converts Apple Library XML to YoutTube Music Library
+Converts Apple Library XML to YouTube Music Library
